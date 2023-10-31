@@ -1,0 +1,23 @@
+{
+  "name": "particles-fluid",
+  "version": "1.0.0",
+  "description": "Convert image into particles affected by motion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradeeppss/particles-fluid.git"
+  },
+  "keywords": [
+    "particle",
+    "image"
+  ],
+  "author": "Pradeep P S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pradeeppss/particles-fluid/issues"
+  },
+  "homepage": "https://github.com/Pradeeppss/particles-fluid#readme"
+}
